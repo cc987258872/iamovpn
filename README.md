@@ -77,7 +77,14 @@ Tested only Ubuntu 18.04, so it can be broken other version of Linux.
     ```
     $ pip3 install -r requirements.txt
     ```
-   
+ 
+其它安装
+
+```
+npm i react-scripts
+sudo npm -g install npm@6.8.0
+```
+
 7. Install IAMOVPN with root permission
     In this process, you may enter information to generate RSA keys.
     ```
